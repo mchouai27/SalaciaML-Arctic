@@ -9,13 +9,13 @@ The machine learning model in this folder is designed to identify and flag probl
 ## Usage
 
 1. Ensure you have the necessary dependencies installed (see Dependencies section below).
-2. Open and run the provided Python script `train_model.py`.
+2. Open and run the provided Python script `Train.ipynb`.
 3. Follow the instructions within the script to load your dataset and train the model.
 4. After training, the script will save the trained model in the folder.
 
 ## Script Details
 
-- `train_model.py`: This script loads the dataset, preprocesses it, splits it into training and validation sets, trains the machine learning model, and saves the trained model.
+- `Train.ipynb`: This Jupyter notebook loads the dataset, preprocesses it, splits it into training and validation sets, trains the machine learning model, and saves the trained model.
 
 ## Dependencies
 
